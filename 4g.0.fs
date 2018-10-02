@@ -1,9 +1,11 @@
 (* Opgave [opgavenummer (3i, 4g osv)]
- * Gruppe nr: 2
+ * Gruppe nr 2:
     * Marie
     * Martin
     * Mathias
 *)
+
+(* 4g.0 *)
 module vec2d
 (* len function*)
 
